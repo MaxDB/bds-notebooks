@@ -14,3 +14,7 @@ dependencies:
   - bokeh
   - dask
   - voila
+  - ipywidgets
+  - ipyvolume
+  - bqplot
+  - scipy
