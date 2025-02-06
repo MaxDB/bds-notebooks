@@ -2,14 +2,19 @@ name: example-environment
 channels:
   - conda-forge
 dependencies:
-  - python=3.13
+  - python=3.11
   - numpy
   - psutil
   - toolz
   - matplotlib
+  - ipympl
   - dill
   - pandas
   - partd
   - bokeh
   - dask
   - voila
+  - ipywidgets
+  - ipyvolume
+  - bqplot
+  - scipy
